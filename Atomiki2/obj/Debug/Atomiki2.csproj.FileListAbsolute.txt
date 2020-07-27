@@ -1,0 +1,16 @@
+C:\Users\Nikos\source\repos\Atomiki2\Atomiki2\bin\Debug\Atomiki2.exe.config
+C:\Users\Nikos\source\repos\Atomiki2\Atomiki2\bin\Debug\Atomiki2.exe
+C:\Users\Nikos\source\repos\Atomiki2\Atomiki2\bin\Debug\Atomiki2.pdb
+C:\Users\Nikos\source\repos\Atomiki2\Atomiki2\obj\Debug\Atomiki2.csprojAssemblyReference.cache
+C:\Users\Nikos\source\repos\Atomiki2\Atomiki2\obj\Debug\Atomiki2.Form1.resources
+C:\Users\Nikos\source\repos\Atomiki2\Atomiki2\obj\Debug\Atomiki2.Properties.Resources.resources
+C:\Users\Nikos\source\repos\Atomiki2\Atomiki2\obj\Debug\Atomiki2.csproj.GenerateResource.cache
+C:\Users\Nikos\source\repos\Atomiki2\Atomiki2\obj\Debug\Atomiki2.csproj.CoreCompileInputs.cache
+C:\Users\Nikos\source\repos\Atomiki2\Atomiki2\obj\Debug\Atomiki2.exe
+C:\Users\Nikos\source\repos\Atomiki2\Atomiki2\obj\Debug\Atomiki2.pdb
+C:\Users\Nikos\source\repos\Atomiki2\Atomiki2\bin\Debug\Database1.mdb
+C:\Users\Nikos\source\repos\Atomiki2\Atomiki2\bin\Debug\Interop.WMPLib.dll
+C:\Users\Nikos\source\repos\Atomiki2\Atomiki2\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Nikos\source\repos\Atomiki2\Atomiki2\obj\Debug\Interop.WMPLib.dll
+C:\Users\Nikos\source\repos\Atomiki2\Atomiki2\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Nikos\source\repos\Atomiki2\Atomiki2\obj\Debug\Atomiki2.csproj.ResolveComReference.cache
